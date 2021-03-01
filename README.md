@@ -4,7 +4,7 @@ KAJMAR farms is located in southwestern ontario and specializes in award winning
 
 ### Our Story
 
-This is all about us, how we acquired our first weimaraner, and how we started our business. 
+This is all about us, how we acquired our first weimaraner, and how we started our dog family.
 
 ### Puppies and Planned Litters
 All current puppies have been spoken for, none available.
