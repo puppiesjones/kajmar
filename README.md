@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Kajmar Farms
 
-You can use the [editor on GitHub](https://github.com/puppiesjones/kajmar/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+KAJMAR farms is located in southwestern ontario and specializes in award winning weimaraners and artificial insemination.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our Story
 
-### Markdown
+This is all about us, how we acquired our first weimaraner, and how we started our business. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Puppies and Planned Litters
+All current puppies have been spoken for, none available.
 
-```markdown
-Syntax highlighted code block
+Coming Soon . . . 
 
-# Header 1
-## Header 2
-### Header 3
+Piper x KingDong (September 2021)
+Harley x KingDong (September 2021)
 
-- Bulleted
-- List
+### Previous Litters
 
-1. Numbered
-2. List
+Big Momma Chelsea shat these baby fur seals out some time last year, she had a bunch of them but we only kept two of the shits.
 
-**Bold** and _Italic_ and `Code` text
+### Contact Us
+For all Enquiries please email Kris at puppies.jones@gmail.com
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/puppiesjones/kajmar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
