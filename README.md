@@ -27,18 +27,7 @@ Piper x KingDong (September 2021)
 Harley x KingDong (September 2021)
 
 
-
-
-
-
-
-### Previous Litters
-
-Big Momma Chelsea birthed these baby fur seals out some time last year.
-
-
-
-
+### Frozen assets
 
 
 
