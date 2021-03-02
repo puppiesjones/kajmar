@@ -48,7 +48,7 @@ Variety: Shorthair.
 Country (current): United States.  
 
 USCH **Moonshadow's Image of Razz** CD, JH, NSD, V  
-Sire: Bing's Razzmatazz von Konsul.  <img src="assets/images/moonshadow.jpeg" class="img-responsive" alt="" style="width:100px;height:100px;border:3px solid black;float:right">
+Sire: Bing's Razzmatazz von Konsul.  <img src="assets/images/moonshadow.jpeg" class="img-responsive" alt="" style="width:175px;height:175px;border:3px solid black;float:right">
 Dam: Moonshadow Orion's Dreamer.  
 Registration #: AKC SE637538.  
 Date of Birth: 1986-6-10.  
