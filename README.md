@@ -38,7 +38,7 @@ Date of Birth: 1991-11-3.
 Variety: Shorthair.  
 Country (current): United States.  
 
-USCH **Takusan's Gift to Reiteralm**  
+USCH **Takusan's Gift to Reiteralm**  <img src="assets/images/krislogo.png" class="img-responsive" alt="" style="width:70px;height:70px;border:3px solid black">
 Sire: Halann's The Judge von der Reiteralm.   
 Dam: Arimar's Lovely Lyric.   
 Registration #: AKC SC815931. 
