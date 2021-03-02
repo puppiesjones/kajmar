@@ -1,6 +1,6 @@
 ## Welcome To KAJMAR Farms
 
-KAJMAR farms is located in Southwestern Ontario and is committed to breeding a dual purpose Weimaraner where field and conformation are of equal importance. A dog that has proper structure will have the ability to perform in the field.
+KAJMAR farms is located in Southwestern Ontario and is committed to breeding a dual purpose Weimaraner where field and conformation are of equal importance. A dog that has proper structure will have the ability to perform in the field. We plan to breed predominately using frozen specimens enabling us to achieve top quality breedings by using superior sires.
 
 ### Owning a Weimaraner
 
