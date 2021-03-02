@@ -57,7 +57,7 @@ Variety: Shorthair.
 Country (current): United States.  
 
 CANCH, USCH **Silberschoen's Lucky Strike** BROM  
-Sire: Nani's Southern Cross.  <img src="assets/images/luckystrike.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">
+Sire: Nani's Southern Cross.  <img src="assets/images/luckystrike.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">  
 Dam: Silberschoen's Northern Dancer.  
 Registration #: CKC EQ319656 / AKC SN35753001.  
 Date of Birth: 1995-8-23.  
