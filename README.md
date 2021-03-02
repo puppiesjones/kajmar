@@ -7,7 +7,7 @@ KAJMAR farms is located in Southwestern Ontario and is committed to breeding a d
 The Weimaraner is a large dog that was originally bred for hunting in the early 19th century. Early Weimaraners were used by royalty for hunting large game such as boar, bear and deer. As the popularity of large game hunting began to decline, Weimaraners were used for hunting smaller animals like fowl, rabbits and foxes.
 The Weimaraner is an all-purpose gun dog. The name comes from the Grand Duke of Saxe-Weimar-Eisenach, Karl August, whose court was located in the city of Weimar in Germany.
 
-### Temperaments
+### Temperament
 
 The Weimaraner is an energetic hunting dog, prized for its physical endurance and stamina, with a strong, instinctive hunting abilities.  A Weimaraner requires frequent exercise and will appreciate games and play. An active owner is more likely to provide the vigorous exercise and games required. A Weimaraner requires appropriate training to learn how to be calm and control its behavior.
 
