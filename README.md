@@ -47,7 +47,7 @@ Call Name: Taco.
 Variety: Shorthair.  
 Country (current): United States.  
 
-USCH **Moonshadow's Image of Razz** CD, JH, NSD, V  <img src="assets/images/moonshadow.jpeg" alt="" style="width:175px;height:175px;border:3px solid black;float:right">
+USCH **Moonshadow's Image of Razz** CD, JH, NSD, V  <img src="assets/images/moonshadow.jpeg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">
 Sire: Bing's Razzmatazz von Konsul.  
 Dam: Moonshadow Orion's Dreamer.  
 Registration #: AKC SE637538.  
