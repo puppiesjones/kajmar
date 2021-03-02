@@ -21,7 +21,7 @@ Weimaraners are not an independent breed and love to be with their owner.Highly 
 ### Frozen assets
 
 USCH **Ann's Magic von der Reiteralm** BROM  
-Sire: Sir Eric con Sieben.  <img src="assets/images/annsmagic.jpeg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">
+Sire: Sir Eric con Sieben.  <img src="assets/images/annsmagic.jpeg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">  
 Dam: The Rajah's Magic von der Reiteralm.  
 Registration #: AKC SC368060.  
 Date of Birth: 1977-11-11.  
@@ -31,7 +31,7 @@ Variety: Shorthair.
 Country: United States.  
 
 USCH **Wismar's Windsor On The Rocks** NSD  
-Sire: Wismar's Jack Daniels.  <img src="assets/images/wismarwindsor.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">
+Sire: Wismar's Jack Daniels.  <img src="assets/images/wismarwindsor.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">  
 Dam: Silversmith American Jewel.  
 Registration #: AKC SM92502402.  
 Date of Birth: 1991-11-3.  
@@ -39,7 +39,7 @@ Variety: Shorthair.
 Country (current): United States.  
 
 USCH **Takusan's Gift to Reiteralm**  
-Sire: Halann's The Judge von der Reiteralm.  <img src="assets/images/takusangift.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right"> 
+Sire: Halann's The Judge von der Reiteralm.  <img src="assets/images/takusangift.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">   
 Dam: Arimar's Lovely Lyric.   
 Registration #: AKC SC815931. 
 Date of Birth: 1979-1-6.  
@@ -47,8 +47,8 @@ Call Name: Taco.
 Variety: Shorthair.  
 Country (current): United States.  
 
-USCH **Moonshadow's Image of Razz** CD, JH, NSD, V 
-Sire: Bing's Razzmatazz von Konsul.   <img src="assets/images/moonshadow.jpeg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">
+USCH **Moonshadow's Image of Razz** CD, JH, NSD, V  
+Sire: Bing's Razzmatazz von Konsul.   <img src="assets/images/moonshadow.jpeg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">  
 Dam: Moonshadow Orion's Dreamer.  
 Registration #: AKC SE637538.  
 Date of Birth: 1986-6-10.  
