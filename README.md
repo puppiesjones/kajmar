@@ -38,7 +38,7 @@ Date of Birth: 1991-11-3.
 Variety: Shorthair.  
 Country (current): United States.  
 
-USCH **Takusan's Gift to Reiteralm**  <img src="assets/images/krislogo.png" class="img-responsive" alt="" style="width:70px;height:70px;border:3px solid black">
+USCH **Takusan's Gift to Reiteralm**  
 Sire: Halann's The Judge von der Reiteralm.   
 Dam: Arimar's Lovely Lyric.   
 Registration #: AKC SC815931. 
@@ -53,7 +53,7 @@ Dam: Moonshadow Orion's Dreamer.
 Registration #: AKC SE637538.  
 Date of Birth: 1986-6-10.  
 Call Name: Chico.  
-Variety: Shorthair.  
+Variety: Shorthair.  <img src="assets/images/moonshadow.jpeg" class="img-responsive" alt="" style="width:100px;height:100px;border:3px solid black;float:right">
 Country (current): United States.  
 
 CANCH, USCH **Silberschoen's Lucky Strike** BROM  
