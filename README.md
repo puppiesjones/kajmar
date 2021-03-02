@@ -21,27 +21,27 @@ Weimaraners are not an independent breed and love to be with their owner.Highly 
 ### Frozen assets
 
 USCH **Ann's Magic von der Reiteralm** BROM
-Sire: Sir Eric con Sieben
-Dam: The Rajah's Magic von der Reiteralm
-Registration #: AKC SC368060
-Date of Birth: 1977-11-11
-Date of Death 1992-4-23
-Call Name: Guy
-Variety: Shorthair
-Country: United States
+Sire: Sir Eric con Sieben.  
+Dam: The Rajah's Magic von der Reiteralm.  
+Registration #: AKC SC368060.  
+Date of Birth: 1977-11-11.  
+Date of Death 1992-4-23.  
+Call Name: Guy.  
+Variety: Shorthair.  
+Country: United States.  
 
 USCH **Wismar's Windsor On The Rocks** NSD 
-Sire: Wismar's Jack Daniels 
-Dam: Silversmith American Jewel 
-Registration #: AKC SM92502402
-Date of Birth: 1991-11-3
-Variety: Shorthair
-Country (current): United States 
+Sire: Wismar's Jack Daniels.  
+Dam: Silversmith American Jewel.  
+Registration #: AKC SM92502402.  
+Date of Birth: 1991-11-3.  
+Variety: Shorthair.  
+Country (current): United States.  
 
 USCH **Takusan's Gift to Reiteralm** 
-Sire: Halann's The Judge von der Reiteralm 
-Dam: Arimar's Lovely Lyric 
-Registration #: AKC SC815931
+Sire: Halann's The Judge von der Reiteralm.   
+Dam: Arimar's Lovely Lyric.   
+Registration #: AKC SC815931. 
 Date of Birth: 1979-1-6
 Call Name: Taco
 Variety: Shorthair
