@@ -20,7 +20,7 @@ Weimaraners are not an independent breed and love to be with their owner.Highly 
 
 ### Frozen assets
 
-USCH **Ann's Magic von der Reiteralm** BROM
+USCH **Ann's Magic von der Reiteralm** BROM  
 Sire: Sir Eric con Sieben.  
 Dam: The Rajah's Magic von der Reiteralm.  
 Registration #: AKC SC368060.  
@@ -30,7 +30,7 @@ Call Name: Guy.
 Variety: Shorthair.  
 Country: United States.  
 
-USCH **Wismar's Windsor On The Rocks** NSD 
+USCH **Wismar's Windsor On The Rocks** NSD  
 Sire: Wismar's Jack Daniels.  
 Dam: Silversmith American Jewel.  
 Registration #: AKC SM92502402.  
@@ -38,32 +38,32 @@ Date of Birth: 1991-11-3.
 Variety: Shorthair.  
 Country (current): United States.  
 
-USCH **Takusan's Gift to Reiteralm** 
+USCH **Takusan's Gift to Reiteralm**  
 Sire: Halann's The Judge von der Reiteralm.   
 Dam: Arimar's Lovely Lyric.   
 Registration #: AKC SC815931. 
-Date of Birth: 1979-1-6
-Call Name: Taco
-Variety: Shorthair
-Country (current): United States 
+Date of Birth: 1979-1-6.  
+Call Name: Taco.  
+Variety: Shorthair.  
+Country (current): United States.  
 
-USCH **Moonshadow's Image of Razz** CD, JH, NSD, V
-Sire: Bing's Razzmatazz von Konsul 
-Dam: Moonshadow Orion's Dreamer 
-Registration #: AKC SE637538
-Date of Birth: 1986-6-10
-Call Name: Chico
-Variety: Shorthair
-Country (current): United States 
+USCH **Moonshadow's Image of Razz** CD, JH, NSD, V  
+Sire: Bing's Razzmatazz von Konsul.  
+Dam: Moonshadow Orion's Dreamer.  
+Registration #: AKC SE637538.  
+Date of Birth: 1986-6-10.  
+Call Name: Chico.  
+Variety: Shorthair.  
+Country (current): United States.  
 
-CANCH, USCH **Silberschoen's Lucky Strike** BROM 
-Sire: Nani's Southern Cross 
-Dam: Silberschoen's Northern Dancer 
-Registration #: CKC EQ319656 / AKC SN35753001
-Date of Birth: 1995-8-23
-Call Name: Frisco
-Variety: Shorthair
-Country (current): Canada 
+CANCH, USCH **Silberschoen's Lucky Strike** BROM  
+Sire: Nani's Southern Cross.  
+Dam: Silberschoen's Northern Dancer.  
+Registration #: CKC EQ319656 / AKC SN35753001.  
+Date of Birth: 1995-8-23.  
+Call Name: Frisco.  
+Variety: Shorthair.  
+Country (current): Canada.  
 
 ### Puppies and Planned Litters
 
