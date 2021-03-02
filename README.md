@@ -2,7 +2,7 @@
 
 KAJMAR farms is located in Southwestern Ontario and is committed to breeding a dual purpose Weimaraner where field and conformation are of equal importance. A dog that has proper structure will have the ability to perform in the field.
 
-### Owning a Weimaraneree
+### Owning a Weimaraner
 
 The Weimaraner is a large dog that was originally bred for hunting in the early 19th century. Early Weimaraners were used by royalty for hunting large game such as boar, bear and deer. As the popularity of large game hunting began to decline, Weimaraners were used for hunting smaller animals like fowl, rabbits and foxes.
 The Weimaraner is an all-purpose gun dog. The name comes from the Grand Duke of Saxe-Weimar-Eisenach, Karl August, whose court was located in the city of Weimar in Germany.
