@@ -48,12 +48,12 @@ Variety: Shorthair.
 Country (current): United States.  
 
 USCH **Moonshadow's Image of Razz** CD, JH, NSD, V  
-Sire: Bing's Razzmatazz von Konsul.  
+Sire: Bing's Razzmatazz von Konsul.  <img src="assets/images/moonshadow.jpeg" class="img-responsive" alt="" style="width:100px;height:100px;border:3px solid black;float:right">
 Dam: Moonshadow Orion's Dreamer.  
 Registration #: AKC SE637538.  
 Date of Birth: 1986-6-10.  
 Call Name: Chico.  
-Variety: Shorthair.  <img src="assets/images/moonshadow.jpeg" class="img-responsive" alt="" style="width:100px;height:100px;border:3px solid black;float:right">
+Variety: Shorthair.  
 Country (current): United States.  
 
 CANCH, USCH **Silberschoen's Lucky Strike** BROM  
