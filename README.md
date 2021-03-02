@@ -31,7 +31,7 @@ Variety: Shorthair.
 Country: United States.  
 
 USCH **Wismar's Windsor On The Rocks** NSD  
-Sire: Wismar's Jack Daniels.  <img src="assets/images/wismarwindsor.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">  
+Sire: Wismar's Jack Daniels.  <img src="assets/images/wismarswindsor.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">  
 Dam: Silversmith American Jewel.  
 Registration #: AKC SM92502402.  
 Date of Birth: 1991-11-3.  
@@ -39,7 +39,7 @@ Variety: Shorthair.
 Country (current): United States.  
 
 USCH **Takusan's Gift to Reiteralm**  
-Sire: Halann's The Judge von der Reiteralm.  <img src="assets/images/takusangift.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">   
+Sire: Halann's The Judge von der Reiteralm.  <img src="assets/images/takusansgift.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">   
 Dam: Arimar's Lovely Lyric.   
 Registration #: AKC SC815931. 
 Date of Birth: 1979-1-6.  
