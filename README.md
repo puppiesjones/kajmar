@@ -21,7 +21,7 @@ Weimaraners are not an independent breed and love to be with their owner.Highly 
 ### Frozen assets
 
 USCH **Ann's Magic von der Reiteralm** BROM  
-Sire: Sir Eric con Sieben.  
+Sire: Sir Eric con Sieben.  <img src="assets/images/annsmagic.jpeg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">
 Dam: The Rajah's Magic von der Reiteralm.  
 Registration #: AKC SC368060.  
 Date of Birth: 1977-11-11.  
@@ -31,7 +31,7 @@ Variety: Shorthair.
 Country: United States.  
 
 USCH **Wismar's Windsor On The Rocks** NSD  
-Sire: Wismar's Jack Daniels.  
+Sire: Wismar's Jack Daniels.  <img src="assets/images/wismarwindsor.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">
 Dam: Silversmith American Jewel.  
 Registration #: AKC SM92502402.  
 Date of Birth: 1991-11-3.  
@@ -39,7 +39,7 @@ Variety: Shorthair.
 Country (current): United States.  
 
 USCH **Takusan's Gift to Reiteralm**  
-Sire: Halann's The Judge von der Reiteralm.   
+Sire: Halann's The Judge von der Reiteralm.  <img src="assets/images/takusangift.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right"> 
 Dam: Arimar's Lovely Lyric.   
 Registration #: AKC SC815931. 
 Date of Birth: 1979-1-6.  
@@ -57,7 +57,7 @@ Variety: Shorthair.
 Country (current): United States.  
 
 CANCH, USCH **Silberschoen's Lucky Strike** BROM  
-Sire: Nani's Southern Cross.  
+Sire: Nani's Southern Cross.  <img src="assets/images/luckystrike.jpg" alt="" style="width:175px;height:120px;border:3px solid black;float:right">
 Dam: Silberschoen's Northern Dancer.  
 Registration #: CKC EQ319656 / AKC SN35753001.  
 Date of Birth: 1995-8-23.  
