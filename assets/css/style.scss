@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+headers{
+    margin :0 auto;
+    display:inline-block;
+    width: 850px;
+}
